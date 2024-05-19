@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.centre{
+    border:solid;
+    border-color: white;
+    width: 50%;
+    height: 200px;
+    margin: 20% auto;
+    background-color: rgb(255, 255, 255);
+    
+}
